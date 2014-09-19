@@ -28,9 +28,9 @@ def index():
 def python():
 	## Code source available in source_python.py
 	## file names
-	f1 = "webtrekk_report_2012-12-15_Sandra VN.csv"
-	f2 = "webtrekk_report_2012-12-15_Sandra ID.csv"
-	f3 = "webtrekk_report_2012-12-15_Sandra PH.csv"
+	f1 = "f1.csv"
+	f2 = "f2.csv"
+	f3 = "f3.csv"
 
     	array=[['a','b','c'],['d','e','f']]
 	y = Q1(array)

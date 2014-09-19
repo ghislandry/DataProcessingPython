@@ -116,5 +116,3 @@ def clean_stats_file(filename):
 	plt.close()
 
 
-
-clean_stats_file("static/webtrekk_report_2012-11-01_Visit IDs.csv")
