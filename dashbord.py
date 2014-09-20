@@ -12,8 +12,7 @@ import math
 
 def dasboard_code():
 	datafile = "ecommerce.csv"
-	url = 'http://www.semtrack.de/e?i=f654793ba2b71c63e9288fa3c02be7662c5d91c1'
-	
+	url = 'url'	
 	## Download the file from the web if we haven't done it yet!
 	filepath = os.path.join(APP_STATIC,datafile)
 	 
